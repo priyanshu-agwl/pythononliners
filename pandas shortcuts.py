@@ -1,11 +1,21 @@
 # how to view rows and columns in pandas dataframe 
-
+# this gives a tuple with rows and columns eg (3,4) 
 df.shape
 
-# this gives a tuple with rows and columns 
 
-(3,4)
+# how to iterate rows 
 
+# how to change one column based on another column 
+
+
+# how to create a dataframe with blank rows with/ without predefined columns 
+
+# how to get dataframe columns list 
+
+# how to check whther a column values is in a list 
+
+# how to save a dataframe with /withlout  index 
+df.to_csv 
 
 
 
