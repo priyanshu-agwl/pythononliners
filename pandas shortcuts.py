@@ -17,8 +17,13 @@ df.shape
 # how to save a dataframe with /withlout  index 
 df.to_csv 
 
+# query based on condition 
+df.query('col==value')
+
+# drp index 
+df.reset_index(drop==True)
 
 
 
-
-
+# to stack one on one use 
+pd.concat()
